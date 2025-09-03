@@ -1,2 +1,3 @@
-# aura-intelligent-answers-module
-This module is the core of Aura's smart automation. It processes requests from voice assistants like Alexa, leveraging adaptive AI models to provide intelligent answers and actions. Its modular design allows for easy integration with multiple AI providers.
+### Aura Project
+# Intelligent Answers Module
+The "brain" of Aura's automation, this module processes requests from voice assistants like Alexa. It leverages an adaptive AI system with multiple providers (Gemini, GPT, etc.) to generate intelligent responses and actions. All interactions are logged for analysis and system improvement, and its modular design allows for easy swapping or upgrading of AI models.
