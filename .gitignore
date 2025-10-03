@@ -144,6 +144,12 @@ ENV/
 env.bak/
 venv.bak/
 
+# Config files with sensitive data
+config.json
+
+# Logs directory
+logs/
+
 # Spyder project settings
 .spyderproject
 .spyproject
