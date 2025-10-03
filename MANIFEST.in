@@ -1,0 +1,17 @@
+include README.md
+include LICENSE
+include GUIA_IMPLEMENTACAO.md
+include QUICKSTART.md
+include requirements.txt
+include requirements-dev.txt
+include .env.example
+include config.example.json
+
+recursive-include src *.py
+recursive-include tests *.py
+
+global-exclude __pycache__
+global-exclude *.py[cod]
+global-exclude .DS_Store
+global-exclude *.so
+global-exclude .git*
